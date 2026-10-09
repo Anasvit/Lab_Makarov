@@ -1,0 +1,16 @@
+﻿<Window x:Class="Lab2_Guselnikova.ManagerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Менеджер"
+        Height="250"
+        Width="400"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <TextBlock Text="Вы вошли как Менеджер"
+                   FontSize="22"
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"/>
+    </Grid>
+</Window>
